@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=b234ee4d69f5fce4486a80fdaf4a4263"
 
 DEPENDS = "util-linux"
 
-SRCREV = "7bde63e9719ce6515b9c08a47d45053afce69d3e"
+SRCREV = "7e127fee6a3981f6b0a50ce9910267cd501e09d4"
 SRC_URI = "git://gitorious.org/ac100/abootimg.git;protocol=https;branch=master"
 
 S = "${WORKDIR}/git"
