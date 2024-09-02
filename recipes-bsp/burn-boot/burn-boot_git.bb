@@ -4,7 +4,7 @@ LICENSE = "BSD"
 LIC_FILES_CHKSUM = "file://LICENSE;md5=219f23a516954274fab23350ce921da3"
 
 SRCREV = "6d8429dd5dfa4ec1cee4428cafe882c16624832a"
-SRC_URI = "git://github.com/96boards-hikey/burn-boot.git;protocol=https \
+SRC_URI = "git://github.com/96boards-hikey/burn-boot.git;protocol=https;branch=master \
 "
 
 S = "${WORKDIR}/git"
